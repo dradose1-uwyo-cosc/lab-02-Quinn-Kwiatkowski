@@ -24,9 +24,9 @@ print(message)
 # Complete the following f-string print message 
     # You will need to create your own variables and insert them  
     # the final message should read `The University of Wyoming was founded in 1886`
-string1 = "The University of Wyoming"
+string1 = "University of Wyoming"
 string2 = "1886"
-print(f"The {your_variable_here} was founded in {your_variable_here}")
+print(f"The {string1} was founded in {string2}")
 
 # Now let's do some math with variables 
     # Create two variables x and y and assign them the values 5 and 10 respectively 
