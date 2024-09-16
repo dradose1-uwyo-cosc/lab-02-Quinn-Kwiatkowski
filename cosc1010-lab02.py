@@ -15,7 +15,7 @@ print("Hello, COSC1010")
 
 # Assign the string above to a variable named hello_message and print that variable
 hello_message = "Hello, COSC1010"
-print("hello_message")
+print(hello_message)
 
 # Assign the string "cowboy joe" to a variable, and print that variable with title casing
 message = "cowboy joe".title()
